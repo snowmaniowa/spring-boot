@@ -1,0 +1,33 @@
+# Created by https://www.gitignore.io/api/java,intellij
+
+## Plugin-specific files:
+
+# unwanted folders -----
+/out/
+*/target/**
+/Servers/*
+?RemoteSystemsTempFiles/*
+*.iml
+
+# modules.xml
+# .idea/misc.xml
+*.ipr
+
+# Sonarlint plugin
+.idea/sonarlint
+
+### Java ###
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.project

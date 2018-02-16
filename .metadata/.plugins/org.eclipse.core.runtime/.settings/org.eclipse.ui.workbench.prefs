@@ -1,0 +1,22 @@
+ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc
+ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.jface.headerfont
+ENABLED_DECORATORS=org.eclipse.ajdt.ui.decorator\:false,org.eclipse.jst.ws.jaxws.dom.integration.navigator.WebServiceDecorator\:false,org.eclipse.m2e.core.mavenVersionDecorator\:false,org.eclipse.wst.jsdt.chromium.debug.ui.decorators.ChromiumJavaScript\:false,org.eclipse.wst.server.ui.decorator\:false,org.eclipse.ajdt.ui.advicedecorator\:false,org.eclipse.cft.server.navigatorDecorator\:false,org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator\:false,org.eclipse.jdt.ui.override.decorator\:false,org.eclipse.jdt.ui.interface.decorator\:false,org.eclipse.jdt.ui.buildpath.decorator\:false,org.eclipse.jst.j2ee.internal.ui.util.AnnotationIconDecorator_ejb\:false,org.eclipse.jst.j2ee.navigator.internal.J2EEProjectDecorator\:false,org.eclipse.jst.jee.ui.internal.navigator.ejb.BeanDecorator\:false,org.eclipse.jst.jee.navigator.internal.JEEProjectDecorator\:false,org.eclipse.jst.j2ee.internal.ui.util.AnnotationIconDecorator_servlet\:false,org.eclipse.m2e.core.maven2decorator\:false,org.eclipse.mylyn.context.ui.decorator.interest\:false,org.eclipse.mylyn.tasks.ui.decorators.task\:false,org.eclipse.mylyn.team.ui.changeset.decorator\:false,org.eclipse.pde.ui.binaryProjectDecorator\:false,org.eclipse.rse.core.virtualobject.decorator\:false,org.eclipse.rse.core.binary.executable.decorator\:false,org.eclipse.rse.core.script.executable.decorator\:false,org.eclipse.rse.core.java.executable.decorator\:false,org.eclipse.rse.core.library.decorator\:false,org.eclipse.rse.core.link.decorator\:false,org.eclipse.rse.subsystems.error.decorator\:false,org.eclipse.ui.LinkedResourceDecorator\:false,org.eclipse.ui.SymlinkDecorator\:false,org.eclipse.ui.VirtualResourceDecorator\:false,org.eclipse.ui.ContentTypeDecorator\:false,org.eclipse.ui.ResourceFilterDecorator\:false,org.eclipse.wst.jsdt.ui.override.decorator\:false,org.eclipse.wst.json.bower.ui.bower\:false,org.eclipse.wst.json.bower.ui.bowerrc\:false,org.eclipse.wst.json.eslint.ui.ESLint\:false,org.eclipse.wst.json.jshint.ui.jshint\:false,org.eclipse.wst.json.npm.ui.NPM\:false,org.eclipse.wst.server.ui.navigatorDecorator\:false,org.springframework.ide.eclipse.aop.ui.decorator.advicedecorator\:false,org.springframework.ide.eclipse.beans.ui.model.beansModelLabelDecorator\:false,org.springframework.ide.eclipse.boot.ui.DevtoolsProjectDecorator\:false,org.springframework.ide.eclipse.data.beans.ui.model.RepositoriesModelLabelDecorator\:false,org.springframework.ide.eclipse.ui.model.modelLabelDecorator\:false,org.springframework.ide.eclipse.webflow.ui.model.webflowModelLabelDecorator\:false,
+PLUGINS_NOT_ACTIVATED_ON_STARTUP=org.eclipse.m2e.discovery;
+eclipse.preferences.version=1
+org.eclipse.egit.ui.DiffAddBackgroundColor=11,121,90
+org.eclipse.egit.ui.DiffAddForegroundColor=216,254,245
+org.eclipse.egit.ui.DiffHeadlineBackgroundColor=71,71,71
+org.eclipse.egit.ui.DiffHeadlineForegroundColor=242,242,242
+org.eclipse.egit.ui.DiffHunkBackgroundColor=53,97,113
+org.eclipse.egit.ui.DiffHunkForegroundColor=233,242,254
+org.eclipse.egit.ui.DiffRemoveBackgroundColor=117,2,36
+org.eclipse.egit.ui.DiffRemoveForegroundColor=255,232,237
+org.eclipse.egit.ui.IgnoredResourceBackgroundColor=42,42,42
+org.eclipse.egit.ui.IgnoredResourceForegroundColor=120,120,120
+org.eclipse.egit.ui.UncommittedChangeBackgroundColor=42,42,42
+org.eclipse.egit.ui.UncommittedChangeForegroundColor=114,157,186
+org.eclipse.jdt.internal.ui.compare.JavaMergeViewer=1|Consolas|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+org.eclipse.jdt.ui.editors.textfont=1|Consolas|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands/>
+overriddenByCSS=,org.eclipse.egit.ui.DiffAddBackgroundColor,org.eclipse.egit.ui.DiffAddForegroundColor,org.eclipse.egit.ui.DiffHeadlineBackgroundColor,org.eclipse.egit.ui.DiffHeadlineForegroundColor,org.eclipse.egit.ui.DiffHunkBackgroundColor,org.eclipse.egit.ui.DiffHunkForegroundColor,org.eclipse.egit.ui.DiffRemoveBackgroundColor,org.eclipse.egit.ui.DiffRemoveForegroundColor,org.eclipse.egit.ui.IgnoredResourceBackgroundColor,org.eclipse.egit.ui.IgnoredResourceForegroundColor,org.eclipse.egit.ui.UncommittedChangeBackgroundColor,org.eclipse.egit.ui.UncommittedChangeForegroundColor,
+terminal.views.view.font.definition=1|Consolas|11.1|0|WINDOWS|1|-37|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
