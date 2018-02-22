@@ -1,6 +1,29 @@
 # Created by https://www.gitignore.io/api/java,intellij
 
-## Plugin-specific files:
+# eclipse specific git ignore
+*.pydevproject
+.project
+.metadata
+.recommenders
+.metadata/
+.recommenders/
+.metadata/**
+.recommenders/**
+!.metadata/**
+!.recommenders/**
+!.metadata/**/*
+!.recommenders/**/*
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
 
 # unwanted folders -----
 /out/
