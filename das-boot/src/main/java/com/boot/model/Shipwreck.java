@@ -1,8 +1,17 @@
 package com.boot.model;
 
-public class Shipwreck {
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
 
+@Entity		//# this makes a regular DTO into a JPA-Entity
+public class Shipwreck {
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
 	Long id;
+	
 	String name;
 	String description;
 	String condition;		

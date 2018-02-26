@@ -1,5 +1,12 @@
 (function() {
-	var app = angular.module('app', ['ui.router', 'navController', 'ngAnimate', 'ui.bootstrap', 'ngResource', 'app.controllers', 'app.services'])
+	var app = angular.module('app', [
+		'app.controllers', 
+		'navController', 
+		'ui.router', 
+		'ui.bootstrap', 
+		'ngAnimate', 
+		'ngResource', 
+		'app.services'])
 
 	// define for requirejs loaded modules
 	define('app', [], function() { return app; });
@@ -49,14 +56,17 @@
 	        url:'/shipwrecks',
 	        templateUrl: viewsPrefix + 'shipwrecks.html',
 	        controller:'ShipwreckListController'
+	        	
 	    }).state('viewShipwreck',{
 	       url:'/shipwrecks/:id/view',
 	       templateUrl: viewsPrefix + 'shipwreck-view.html',
 	       controller:'ShipwreckViewController'
+	    	   
 	    }).state('newShipwreck',{
 	        url:'/shipwrecks/new',
 	        templateUrl: viewsPrefix + 'shipwreck-add.html',
 	        controller:'ShipwreckCreateController'
+	        	
 	    }).state('editShipwreck',{
 	        url:'/shipwrecks/:id/edit',
 	        templateUrl: viewsPrefix + 'shipwreck-edit.html',
