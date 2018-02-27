@@ -1,18 +1,18 @@
-# Created by https://www.gitignore.io/api/java,intellij
-
 # eclipse specific git ignore
 *.pydevproject
 .project
+
 .metadata
-.recommenders
 .metadata/
-.recommenders/
 .metadata/**
-.recommenders/**
 !.metadata/**
-!.recommenders/**
 !.metadata/**/*
+.recommenders
+.recommenders/
+.recommenders/**
+!.recommenders/**
 !.recommenders/**/*
+
 bin/**
 tmp/**
 tmp/**/*
@@ -36,17 +36,17 @@ local.properties
 # .idea/misc.xml
 *.ipr
 
-# Sonarlint plugin
+#==Sonarlint plugin==
 .idea/sonarlint
 
-### Java ###
+#==Java==
 # Compiled class file
 *.class
 
-# Log file
+#==Log file==
 *.log
 
-# Package Files #
+#==Package Files==
 *.jar
 *.war
 *.ear
