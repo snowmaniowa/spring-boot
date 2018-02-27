@@ -12,6 +12,11 @@
 .recommenders/**
 !.recommenders/**
 !.recommenders/**/*
+.settings
+.settings/
+.settings/**
+!.settings/**
+!.settings/**/*
 
 bin/**
 tmp/**
@@ -22,7 +27,6 @@ tmp/**/*
 *~.nib
 local.properties
 .classpath
-.settings/
 .loadpath
 
 # unwanted folders -----
