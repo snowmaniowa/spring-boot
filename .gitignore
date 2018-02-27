@@ -5,11 +5,14 @@
 .project
 .metadata
 .recommenders
+.metadata/
 .recommenders/
+.metadata/**
 .recommenders/**
+!.metadata/**
 !.recommenders/**
+!.metadata/**/*
 !.recommenders/**/*
-
 bin/**
 tmp/**
 tmp/**/*
@@ -22,15 +25,9 @@ local.properties
 .settings/
 .loadpath
 
-.metadata/
-.metadata/**
-!.metadata/**
-!.metadata/**/*
-
 # unwanted folders -----
 /out/
 */target/**
-*/.metadata/**
 /Servers/*
 ?RemoteSystemsTempFiles/*
 *.iml
